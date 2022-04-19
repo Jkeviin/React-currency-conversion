@@ -1,0 +1,25 @@
+.container{
+  margin: 10px;
+}
+
+input{
+  color: orangered;
+  width: 300px;
+  line-height: 60px;
+  text-align: right;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+  border: 1px solid darkred;
+  outline: none;
+  font-size: 2.5rem;
+}
+
+label{
+  display: block;
+  font-size: 1.25rem;
+  margin-top: 10px;
+}
+
